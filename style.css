@@ -1,0 +1,31 @@
+body
+{
+	background-color: black;
+	color:red;
+	margin-left: 500px;
+	font-size: 25px;
+}
+input
+{
+	margin auto;
+	background-color:  black;
+	color: red;
+	height: 30px;
+	width: 200px;
+	border: solid;
+	border-color: white;
+	font-size: 25px;
+}
+button
+{
+	background-color: rgb(50,60,65);
+	color: white;
+	height: 50px;
+	width: 100px;
+	font-size: 25px;
+}
+a
+{
+	color: cyan;
+	font-size:25px;
+}
